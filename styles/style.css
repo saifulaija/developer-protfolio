@@ -237,3 +237,6 @@ nav li{
   .contact a{
     text-decoration: none;
   }
+  textarea{
+    border: none;
+  }
