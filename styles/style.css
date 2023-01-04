@@ -208,3 +208,32 @@ nav li{
 
 
   }
+
+    /* contact styles  */
+    .contact{
+        display: flex;
+        gap: 100px;
+        background: #FFF8F3;
+        padding: 130px 200px;
+    }
+
+  .section-title{
+    text-align: left;
+    margin-bottom: 15px;
+    display: block;
+
+  }
+  .contact input [type="text"], input [type="email"], textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+  }
+  input{
+    height: 40px;
+    margin-bottom: 24px;
+    border: none;
+    
+  }
+  .contact a{
+    text-decoration: none;
+  }
